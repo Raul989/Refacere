@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="utf-8"?>
+<Serviciu xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+  <Id>12</Id>
+  <Nume>NUME</Nume>
+  <CodIntern>1A</CodIntern>
+  <Pret>200</Pret>
+  <Categorie>categorie</Categorie>
+</Serviciu>

@@ -1,0 +1,49 @@
+C:\Facultate\P.O.O\Lab2\POS\app1\bin\Debug\app1.exe.config
+C:\Facultate\P.O.O\Lab2\POS\app1\bin\Debug\app1.exe
+C:\Facultate\P.O.O\Lab2\POS\app1\bin\Debug\app1.pdb
+C:\Facultate\P.O.O\Lab2\POS\app1\bin\Debug\entitati.dll
+C:\Facultate\P.O.O\Lab2\POS\app1\bin\Debug\entitati.pdb
+C:\Facultate\P.O.O\Lab2\POS\app1\obj\Debug\app1.csprojAssemblyReference.cache
+C:\Facultate\P.O.O\Lab2\POS\app1\obj\Debug\app1.csproj.CopyComplete
+C:\Facultate\P.O.O\Lab2\POS\app1\obj\Debug\app1.exe
+C:\Facultate\P.O.O\Lab2\POS\app1\obj\Debug\app1.pdb
+C:\Facultate\P.O.O\Lab3\Lab3\app1\bin\Debug\app1.exe.config
+C:\Facultate\P.O.O\Lab3\Lab3\app1\bin\Debug\app1.exe
+C:\Facultate\P.O.O\Lab3\Lab3\app1\bin\Debug\app1.pdb
+C:\Facultate\P.O.O\Lab3\Lab3\app1\bin\Debug\entitati.dll
+C:\Facultate\P.O.O\Lab3\Lab3\app1\bin\Debug\entitati.pdb
+C:\Facultate\P.O.O\Lab3\Lab3\app1\obj\Debug\app1.csprojAssemblyReference.cache
+C:\Facultate\P.O.O\Lab3\Lab3\app1\obj\Debug\app1.csproj.CopyComplete
+C:\Facultate\P.O.O\Lab3\Lab3\app1\obj\Debug\app1.exe
+C:\Facultate\P.O.O\Lab3\Lab3\app1\obj\Debug\app1.pdb
+C:\Users\alexc\Downloads\wetransfer-573e6d\poo ;aburi an2\Lab4\Lab4\app1\bin\Debug\app1.exe.config
+C:\Users\alexc\Downloads\wetransfer-573e6d\poo ;aburi an2\Lab4\Lab4\app1\bin\Debug\app1.exe
+C:\Users\alexc\Downloads\wetransfer-573e6d\poo ;aburi an2\Lab4\Lab4\app1\bin\Debug\app1.pdb
+C:\Users\alexc\Downloads\wetransfer-573e6d\poo ;aburi an2\Lab4\Lab4\app1\bin\Debug\entitati.dll
+C:\Users\alexc\Downloads\wetransfer-573e6d\poo ;aburi an2\Lab4\Lab4\app1\bin\Debug\entitati.pdb
+C:\Users\alexc\Downloads\wetransfer-573e6d\poo ;aburi an2\Lab4\Lab4\app1\obj\Debug\app1.csprojAssemblyReference.cache
+C:\Users\alexc\Downloads\wetransfer-573e6d\poo ;aburi an2\Lab4\Lab4\app1\obj\Debug\app1.csproj.CoreCompileInputs.cache
+C:\Users\alexc\Downloads\wetransfer-573e6d\poo ;aburi an2\Lab4\Lab4\app1\obj\Debug\app1.csproj.CopyComplete
+C:\Users\alexc\Downloads\wetransfer-573e6d\poo ;aburi an2\Lab4\Lab4\app1\obj\Debug\app1.exe
+C:\Users\alexc\Downloads\wetransfer-573e6d\poo ;aburi an2\Lab4\Lab4\app1\obj\Debug\app1.pdb
+D:\Facultate\Anul 2\Sem 2\OOP\Lab4\app1\bin\Debug\app1.exe.config
+D:\Facultate\Anul 2\Sem 2\OOP\Lab4\app1\bin\Debug\app1.exe
+D:\Facultate\Anul 2\Sem 2\OOP\Lab4\app1\bin\Debug\app1.pdb
+D:\Facultate\Anul 2\Sem 2\OOP\Lab4\app1\bin\Debug\entitati.dll
+D:\Facultate\Anul 2\Sem 2\OOP\Lab4\app1\bin\Debug\entitati.pdb
+D:\Facultate\Anul 2\Sem 2\OOP\Lab4\app1\obj\Debug\app1.csprojAssemblyReference.cache
+D:\Facultate\Anul 2\Sem 2\OOP\Lab4\app1\obj\Debug\app1.csproj.CoreCompileInputs.cache
+D:\Facultate\Anul 2\Sem 2\OOP\Lab4\app1\obj\Debug\app1.csproj.CopyComplete
+D:\Facultate\Anul 2\Sem 2\OOP\Lab4\app1\obj\Debug\app1.exe
+D:\Facultate\Anul 2\Sem 2\OOP\Lab4\app1\obj\Debug\app1.pdb
+C:\Users\Raul\OneDrive\Desktop\POS2\app1\bin\Debug\app1.exe.config
+C:\Users\Raul\OneDrive\Desktop\POS2\app1\bin\Debug\app1.exe
+C:\Users\Raul\OneDrive\Desktop\POS2\app1\bin\Debug\app1.pdb
+C:\Users\Raul\OneDrive\Desktop\POS2\app1\bin\Debug\entitati.dll
+C:\Users\Raul\OneDrive\Desktop\POS2\app1\bin\Debug\entitati.pdb
+C:\Users\Raul\OneDrive\Desktop\POS2\app1\obj\Debug\app1.csproj.AssemblyReference.cache
+C:\Users\Raul\OneDrive\Desktop\POS2\app1\obj\Debug\app1.csproj.SuggestedBindingRedirects.cache
+C:\Users\Raul\OneDrive\Desktop\POS2\app1\obj\Debug\app1.csproj.CoreCompileInputs.cache
+C:\Users\Raul\OneDrive\Desktop\POS2\app1\obj\Debug\app1.csproj.CopyComplete
+C:\Users\Raul\OneDrive\Desktop\POS2\app1\obj\Debug\app1.exe
+C:\Users\Raul\OneDrive\Desktop\POS2\app1\obj\Debug\app1.pdb

@@ -1,0 +1,28 @@
+C:\Facultate\P.O.O\Lab2\POS\entitati\bin\Debug\entitati.dll
+C:\Facultate\P.O.O\Lab2\POS\entitati\bin\Debug\entitati.pdb
+C:\Facultate\P.O.O\Lab2\POS\entitati\obj\Debug\entitati.csprojAssemblyReference.cache
+C:\Facultate\P.O.O\Lab2\POS\entitati\obj\Debug\entitati.dll
+C:\Facultate\P.O.O\Lab2\POS\entitati\obj\Debug\entitati.pdb
+C:\Facultate\P.O.O\Lab3\Lab3\entitati\bin\Debug\entitati.dll
+C:\Facultate\P.O.O\Lab3\Lab3\entitati\bin\Debug\entitati.pdb
+C:\Facultate\P.O.O\Lab3\Lab3\entitati\obj\Debug\entitati.csprojAssemblyReference.cache
+C:\Facultate\P.O.O\Lab3\Lab3\entitati\obj\Debug\entitati.dll
+C:\Facultate\P.O.O\Lab3\Lab3\entitati\obj\Debug\entitati.pdb
+C:\Users\alexc\Downloads\wetransfer-573e6d\poo ;aburi an2\Lab4\Lab4\entitati\bin\Debug\entitati.dll
+C:\Users\alexc\Downloads\wetransfer-573e6d\poo ;aburi an2\Lab4\Lab4\entitati\bin\Debug\entitati.pdb
+C:\Users\alexc\Downloads\wetransfer-573e6d\poo ;aburi an2\Lab4\Lab4\entitati\obj\Debug\entitati.csprojAssemblyReference.cache
+C:\Users\alexc\Downloads\wetransfer-573e6d\poo ;aburi an2\Lab4\Lab4\entitati\obj\Debug\entitati.csproj.CoreCompileInputs.cache
+C:\Users\alexc\Downloads\wetransfer-573e6d\poo ;aburi an2\Lab4\Lab4\entitati\obj\Debug\entitati.dll
+C:\Users\alexc\Downloads\wetransfer-573e6d\poo ;aburi an2\Lab4\Lab4\entitati\obj\Debug\entitati.pdb
+D:\Facultate\Anul 2\Sem 2\OOP\Lab4\entitati\bin\Debug\entitati.dll
+D:\Facultate\Anul 2\Sem 2\OOP\Lab4\entitati\bin\Debug\entitati.pdb
+D:\Facultate\Anul 2\Sem 2\OOP\Lab4\entitati\obj\Debug\entitati.csprojAssemblyReference.cache
+D:\Facultate\Anul 2\Sem 2\OOP\Lab4\entitati\obj\Debug\entitati.csproj.CoreCompileInputs.cache
+D:\Facultate\Anul 2\Sem 2\OOP\Lab4\entitati\obj\Debug\entitati.dll
+D:\Facultate\Anul 2\Sem 2\OOP\Lab4\entitati\obj\Debug\entitati.pdb
+C:\Users\Raul\OneDrive\Desktop\POS2\entitati\bin\Debug\entitati.dll
+C:\Users\Raul\OneDrive\Desktop\POS2\entitati\bin\Debug\entitati.pdb
+C:\Users\Raul\OneDrive\Desktop\POS2\entitati\obj\Debug\entitati.csproj.AssemblyReference.cache
+C:\Users\Raul\OneDrive\Desktop\POS2\entitati\obj\Debug\entitati.csproj.CoreCompileInputs.cache
+C:\Users\Raul\OneDrive\Desktop\POS2\entitati\obj\Debug\entitati.dll
+C:\Users\Raul\OneDrive\Desktop\POS2\entitati\obj\Debug\entitati.pdb
